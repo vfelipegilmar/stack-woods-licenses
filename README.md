@@ -1,1 +1,2 @@
-# stack-woods-licenses
+#Licenses
+These are the licenses for the libraries we use:
